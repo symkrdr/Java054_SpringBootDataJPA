@@ -45,3 +45,4 @@
 
 ## NOT!!
 **İdempotent, bir işlemin birden fazla kez tekrarlandığında aynı sonucu üretmesi anlamına gelir.**
+
