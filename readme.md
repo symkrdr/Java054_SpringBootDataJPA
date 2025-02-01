@@ -1,4 +1,5 @@
-##1. **GET**
+1. **GET**
+
    Veriyi almak için kullanılır.
 
    -Sadece okuma işlemi yapar (idempotenttir, yani aynı istek tekrarlandığında aynı sonucu üretir).
